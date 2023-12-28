@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ajaypsit
+- 👀 I’m interested in software development in PHP/Python/MySQL or any other programming language
+- 🌱 I’m currently learning python from DUCAT
+- 📫 reach me at ajaypsit21@gmail.com or call me 07985908822
